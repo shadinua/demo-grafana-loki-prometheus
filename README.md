@@ -10,6 +10,8 @@ cd demo-grafana-loki-prometheus
 docker-compose up
 ```
 
+<p align="center"><img src="_pics/prometheus_loki.png" alt="Grafana splitted dashboard: prometheus with loki" width="700"></p>
+
 # Components
 
 This playground contains:
