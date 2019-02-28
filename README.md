@@ -29,8 +29,8 @@ This playground contains:
 # What to play?
 
 * new `explore` panel: fast search for data, debug, easily play without creating complex dashboards
-* split screen: nice mode, where you can simultaneously see, for example, prometheus metrics at the left panel and loki logs on the right
-* queries to prometheus:
+* split screen: nice mode, where you can simultaneously see, for example, `prometheus` metrics at the left panel and `loki` logs on the right
+* queries to `prometheus`:
   - `irate(container_cpu_system_seconds_total[20s])`
   - `container_memory_rss`
   - ...
